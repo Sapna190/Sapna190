@@ -1,7 +1,7 @@
-[![MasterHead](https://www.facebook.com/photo/?fbid=1925652337710655&set=p.1925652337710655)]
+[![MasterHead](https://www.pngwing.com/en/free-png-ynogu)]
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"/>
+<img align="right"  width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3pktG_ByVXN9SNGQh593QP&ust=1718448675635000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCZj6T22oYDFQAAAAAdAAAAABAJ"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" /> </p>
 
