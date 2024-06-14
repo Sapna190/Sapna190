@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)]
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"/>
