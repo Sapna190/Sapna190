@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pngwing.com/en/free-png-ynogu)]
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  width="400" alt="coding" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"/>
+<img align="center"  width="100%" alt="coding" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" /> </p>
 
