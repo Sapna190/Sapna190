@@ -1,11 +1,12 @@
-[![MasterHead](https://www.pngwing.com/en/free-png-ynogu)]
+
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center"  width="100%" alt="coding" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapna190" alt="sapna190" /></a> </p>
+<img align="right"  width="40%"  alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
+
 
 - 🔭 I’m currently working on [Brain-wave](https://github.com/Sapna190/Brain-wave.git)
 
