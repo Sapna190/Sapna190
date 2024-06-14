@@ -1,7 +1,7 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg)]
+[![MasterHead](https://www.facebook.com/photo/?fbid=1925652337710655&set=p.1925652337710655)]
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"/>
+<img align="right"  width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" /> </p>
 
