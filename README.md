@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I am a 3rd-year Computer Science and Engineering (CSE) student and developer, passionate about leveraging my academic knowledge to create innovative solutions and explore the realm of software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapna190" alt="sapna190" /></a> </p>
