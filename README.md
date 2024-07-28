@@ -7,7 +7,7 @@
 <img align="right"  width="40%"  alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 
-- 🔭 I’m currently working on [Brain-wave](https://github.com/Sapna190/Brain-wave.git), [AI-Chatbot](https://github.com/Sapna190/AI-Chatbot.git)
+- 🔭 I’m currently working on [personal-portfolio](https://github.com/Sapna190/personal-portfolio.git)
 
 - 🌱 I’m currently learning **MERN, Figma, Tailwind**
 
