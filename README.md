@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sapna Sharma</h1>
 <h4 align="center">I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring Software Development Engineer, passionate about building impactful solutions and continuously exploring the ever‑evolving world of software development.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" width="120" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapna190" alt="sapna190" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sapna190" alt="sapna190" width="400" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [Zerodha]
 
@@ -19,7 +26,8 @@
 <a href="https://www.leetcode.com/sapna_190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapna_190" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
