@@ -13,6 +13,13 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
   </a>
 </p>
 <br/>
+
+<table>
+  <tr>
+    <td>
+
+<!-- LEFT SIDE CONTENT -->
+  
 - 🔭 I’m currently working on [Zerodha]
 
 - 🌱 I’m currently learning **MERN,Tailwind**
@@ -20,6 +27,7 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
 - 💬 Ask me about **Javascript, React, Node**
 
 - 📫 How to reach me **sapnasharma8849711@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sapna sharma" target="blank">
@@ -29,6 +37,16 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapna_190" height="30" width="40" />
   </a>
 </p>
+
+</td>
+<td align="center">
+  
+<!-- RIGHT SIDE IMAGE/GIF -->
+<img src="https://tenor.com/search/coding-gifs" alt="coding gif" width="300"/>
+
+</td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -78,5 +96,6 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
 <br />
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sapna190&show_icons=true&locale=en" alt="sapna190" /></p>
+<br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sapna190&" alt="sapna190" /></p>
