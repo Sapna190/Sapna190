@@ -6,11 +6,10 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sapna190&label=Profile%20views&color=0e75b6&style=flat" alt="sapna190" width="120" />
 </p>
-<br/>
 <!-- 🎖️ TROPHY SECTION -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sapna190&margin-w=15&margin-h=15&" alt="sapna190 trophies" width="500"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sapna190&margin-w=15&margin-h=15&" alt="sapna190 trophies" width="650"/>
   </a>
 </p>
 <br/>
@@ -21,8 +20,6 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
 - 💬 Ask me about **Javascript, React, Node**
 
 - 📫 How to reach me **sapnasharma8849711@gmail.com**
-
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sapna sharma" target="blank">
