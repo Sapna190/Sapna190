@@ -10,14 +10,18 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
 <!-- 🎖️ TROPHY SECTION -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sapna190&margin-w=15&margin-h=15&column=6" alt="sapna190 trophies" width="500"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sapna190&margin-w=15&margin-h=15&" alt="sapna190 trophies" width="500"/>
   </a>
 </p>
 <br/>
-- 🔭 I’m currently working on **Zerodha**  
-- 🌱 I’m currently learning **MERN, Tailwind**  
-- 💬 Ask me about **JavaScript, React, Node**  
+- 🔭 I’m currently working on [Zerodha]
+
+- 🌱 I’m currently learning **MERN,Tailwind**
+
+- 💬 Ask me about **Javascript, React, Node**
+
 - 📫 How to reach me **sapnasharma8849711@gmail.com**
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,6 +78,7 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
 <!-- 📊 STATS SECTION -->
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapna190&show_icons=true&locale=en&layout=compact" alt="sapna190" /></p>
+<br />
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sapna190&show_icons=true&locale=en" alt="sapna190" /></p>
 
