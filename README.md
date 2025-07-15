@@ -13,11 +13,6 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
   </a>
 </p>
 <br/>
-
-<table>
-  <tr>
-    <td>
-
 <!-- LEFT SIDE CONTENT -->
   
 - 🔭 I’m currently working on [Zerodha]
@@ -38,15 +33,10 @@ I am a 4th‑year Computer Science and Engineering (CSE) student and aspiring So
   </a>
 </p>
 
-</td>
 <td align="center">
   
 <!-- RIGHT SIDE IMAGE/GIF -->
 <img src="https://tenor.com/search/coding-gifs" alt="coding gif" width="300"/>
-
-</td>
-  </tr>
-</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
